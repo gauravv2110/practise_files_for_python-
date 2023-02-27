@@ -1,0 +1,15 @@
+Hello 
+python 
+this 
+is 
+my 
+second 
+file 
+which 
+i 
+have 
+opened 
+for 
+python 
+multithreading 
+topic
